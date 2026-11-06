@@ -1,2 +1,2 @@
 # Vanilla-Chess
-A simple chess game nade with vanilla js
+A simple chess game made with vanilla js
